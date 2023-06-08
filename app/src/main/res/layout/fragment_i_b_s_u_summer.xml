@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IBSUSummerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="📣 IBSU-ს ექვსი სტუდენტური კლუბის ორგანიზებით, 12 ივნისს, უნივერსიტეტის ეზოში გაიმართება IBSU-ს პირველი საზაფხულო მუსიკალური ფესტივალი.
+\n🔷 შემოუერთდით დაუვიწყარ საღამოს და ჩაერთეთ საინტერესო აქტივობებში.
+\n🕧 12 ივნისი, 18:00-22:00 საათი
+📍 IBSU"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
